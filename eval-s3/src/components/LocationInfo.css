@@ -1,0 +1,18 @@
+h2 {
+    text-decoration: underline;
+}
+
+.location-info ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.location-info ul > li {
+    margin: 1em;
+    width: 10em;
+}
+
+.bold {
+    font-weight: bold;
+}

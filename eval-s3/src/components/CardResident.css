@@ -1,0 +1,29 @@
+.card-resident {
+    display: flex;
+}
+
+.card-resident > * {
+    margin: 1em;
+}
+
+.card-resident > header {
+    width: 30%;
+}
+
+.card-resident > header > img {
+    width: 150px;
+}
+
+.card-resident > div {
+    width: 70%;
+}
+
+.card-resident > div > h3 {
+    margin-top: 0;
+}
+
+.card-resident > div > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
